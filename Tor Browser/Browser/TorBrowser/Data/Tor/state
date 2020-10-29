@@ -1,0 +1,63 @@
+# Tor state file last generated on 2019-06-27 20:14:40 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+Guard in=default rsa_id=563F823081F45EC152F374DA22F979FB6724BE89 nickname=thorfred2 sampled_on=2019-06-27T09:56:26 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=13A883871EF7BA0CB7C913534C5EC360D6DF1BF7 nickname=Unnamed sampled_on=2019-06-21T13:34:02 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=BD439540C7B86367B7F279C9CDD4BD601A850787 nickname=mkg20001 sampled_on=2019-06-17T15:52:44 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=D317C7889162E9EC4A1DA1A1095C2A0F377536D9 nickname=NYCBUG0 sampled_on=2019-06-25T12:59:07 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=CB6B6BA245101851E988EDFE2FD3465CF06F9C29 nickname=anonymoose sampled_on=2019-06-19T08:19:52 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=461D6EA15966C7F99B43D37ADC116B5B8E47D130 nickname=CryoBBNx sampled_on=2019-06-20T00:23:30 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=912B7597346A74A44AD4B6068C645772B758DCB7 nickname=trex sampled_on=2019-06-25T09:19:32 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=1438C5E6E4B2F5714267B04F880B57C86BF25FA6 nickname=manningftw sampled_on=2019-06-21T01:21:39 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=F0F5074A6DADD3DC22E1FAA18FD6D89CBC52771A nickname=dc6jgk7b sampled_on=2019-06-25T23:52:28 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=2E23B75B9D9AB7B86D1D5AB1C9B6B30BA0E84E3E nickname=Unnamed sampled_on=2019-06-27T17:03:08 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=E6C04728E9339DF22F331B7017D4A7AA3F252F0B nickname=malekalcom sampled_on=2019-06-21T00:09:27 sampled_by=0.3.5.8 listed=1 confirmed_on=2019-06-24T14:54:57 confirmed_idx=0 pb_use_attempts=41.000000 pb_use_successes=41.000000 pb_circ_attempts=59.000000 pb_circ_successes=57.000000 pb_successful_circuits_closed=57.000000
+Guard in=default rsa_id=6B9EA8927AB6E94E216067E65372182343A5AFA2 nickname=angelinajolie sampled_on=2019-06-18T04:07:57 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=69B5CB623284C943EBA264AAA8355B0966D3D141 nickname=88f324d4 sampled_on=2019-06-15T23:34:40 sampled_by=0.3.5.8 listed=1 confirmed_on=2019-06-25T06:51:18 confirmed_idx=1
+Guard in=default rsa_id=9456BBB3FB923DD1CDEC5C8B45D9615BC937DC42 nickname=Totonicapanp5 sampled_on=2019-06-25T14:24:10 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=F9A3542D5863CD665B7FF758E73DAD40832D0064 nickname=cxxnode2 sampled_on=2019-06-23T15:38:53 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=7C22E89AB620E77DF1B4A33787A5EC3F2AB4A8D1 nickname=ZKP1984 sampled_on=2019-06-24T09:03:29 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=E778381BD386B4723877DE837A895F6E9C241607 nickname=Unnamed sampled_on=2019-06-21T14:53:43 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=B872BA6804C8C6E140AE1897B44CF32B42FD2397 nickname=sarahmanning sampled_on=2019-06-25T17:36:39 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=2FD0BA57A34DC2792AF470398F72F37F9E51DC2D nickname=serotonin sampled_on=2019-06-18T09:35:53 sampled_by=0.3.5.8 listed=1 confirmed_on=2019-06-24T17:17:04 confirmed_idx=2
+Guard in=default rsa_id=A4C83C2BEB4F1B31D40E80D5524C66A117D77C50 nickname=kiwirelay sampled_on=2019-06-17T19:43:35 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=7524D5503DB794914A917F57B91555E62E034E87 nickname=Unnamed sampled_on=2019-06-22T08:28:04 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=55EE88669E0C78F3F4A7D3B74BDEC5908E98A9DE nickname=fmi sampled_on=2019-06-24T11:31:00 sampled_by=0.3.5.8 listed=1
+TorVersion Tor 0.3.5.8 (git-5030edfb534245ed)
+LastWritten 2019-06-27 20:14:40
+TotalBuildTimes 58
+CircuitBuildTimeBin 775 1
+CircuitBuildTimeBin 825 2
+CircuitBuildTimeBin 875 1
+CircuitBuildTimeBin 925 1
+CircuitBuildTimeBin 1025 2
+CircuitBuildTimeBin 1075 3
+CircuitBuildTimeBin 1125 1
+CircuitBuildTimeBin 1175 2
+CircuitBuildTimeBin 1225 1
+CircuitBuildTimeBin 1275 4
+CircuitBuildTimeBin 1375 4
+CircuitBuildTimeBin 1475 4
+CircuitBuildTimeBin 1525 2
+CircuitBuildTimeBin 1575 2
+CircuitBuildTimeBin 1725 2
+CircuitBuildTimeBin 1825 1
+CircuitBuildTimeBin 1875 1
+CircuitBuildTimeBin 1925 5
+CircuitBuildTimeBin 2025 3
+CircuitBuildTimeBin 2075 1
+CircuitBuildTimeBin 2225 1
+CircuitBuildTimeBin 2325 1
+CircuitBuildTimeBin 2375 1
+CircuitBuildTimeBin 2475 1
+CircuitBuildTimeBin 2675 1
+CircuitBuildTimeBin 2725 1
+CircuitBuildTimeBin 2975 1
+CircuitBuildTimeBin 3025 1
+CircuitBuildTimeBin 3125 2
+CircuitBuildTimeBin 3225 1
+CircuitBuildTimeBin 4125 1
+CircuitBuildTimeBin 9625 1
+CircuitBuildTimeBin 15175 1
+CircuitBuildTimeBin 21925 1
